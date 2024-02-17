@@ -21,7 +21,7 @@ nav {
   margin: none;
   width: 100%;
   padding: 0 20px;
-  position: fixed;
+  position: sticky;
   height: 70px;
   display: flex;
   align-items: center;
