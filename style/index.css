@@ -113,7 +113,6 @@ nav ul li a {
   .home .content-text {
     height: 100vh;
     width: 100%;
-    max-width: 500px;
     background-image: url(../images/main-phone.jpg);
     background-size: cover;
     background-position: center;
@@ -205,6 +204,7 @@ nav ul {
   border-radius: 10px;
   display: flex;
   flex-direction: row;
+  width: 100%;
   max-width: 1000px;
   align-items: center;
   justify-content: center;
