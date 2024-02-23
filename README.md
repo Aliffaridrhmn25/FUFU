@@ -1,6 +1,6 @@
 <a href="https://fufu-app.netlify.app">Link Deploy Products</a>
 
-##Tampilan Dekstop##
+<h2>Tampilan Dekstop</h2>
 ![image](https://github.com/Aliffaridrhmn25/FUFU/assets/135413797/e2646328-5469-4613-840a-acb91687b1f1)
 ![image](https://github.com/Aliffaridrhmn25/FUFU/assets/135413797/f208ebbf-a42c-41c3-bd2e-fb84b753aa13)
 
