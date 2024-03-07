@@ -1,5 +1,6 @@
-<a href="https://fufu-app.netlify.app">Link Deploy Products</a>
+Fufu adalah website yang menawarkan berbagai macam furnitur untuk rumah anda, pembuatan website fufu ini bermaksud untuk memenuhi submission/nilai dari sebuah tugas untuk merancang sebuah company profile
 
+<a href="https://fufu-app.netlify.app">Link Deploy Products</a>
 <h4>Tampilan Desktop</h4>
 
 ![image](https://github.com/Aliffaridrhmn25/FUFU/assets/135413797/e2646328-5469-4613-840a-acb91687b1f1)
