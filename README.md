@@ -1,5 +1,6 @@
-Fufu adalah website yang menawarkan berbagai macam furnitur untuk rumah anda, pembuatan website fufu ini bermaksud untuk memenuhi submission/nilai dari sebuah tugas untuk merancang sebuah company profile
+FUFU<br>
 
+Fufu adalah website yang menawarkan berbagai macam furnitur untuk rumah anda, pembuatan website fufu ini bermaksud untuk memenuhi submission/nilai dari sebuah tugas untuk merancang sebuah company profile
 <a href="https://fufu-app.netlify.app">Link Deploy Products</a>
 <h4>Tampilan Desktop</h4>
 
